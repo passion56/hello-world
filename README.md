@@ -1,2 +1,2 @@
-# hello-world
-this is a new beginning
+Here i hope it is a new place to start
+I also want to summarize my knowledge here 
